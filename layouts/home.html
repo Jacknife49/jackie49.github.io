@@ -1,0 +1,9 @@
+{{ define "body-class" }}academic-home{{ end }}
+{{ define "main" }}
+    <div class="academic-topbar" aria-label="Current page">Home</div>
+    <article class="academic-introduction">
+        <header><h1>{{ .Title }}</h1></header>
+        {{ partial "article/components/content.html" . }}
+    </article>
+    {{ partial "footer/footer.html" . }}
+{{ end }}
