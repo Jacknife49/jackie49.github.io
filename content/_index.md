@@ -11,7 +11,7 @@ menu:
 
 Hi, I am **Uddalak Mukherjee**.
 
-I am a first-year PhD student at **Université Paris Dauphine–PSL**, working under the supervision of **Edwige Cyffers** and **Yann Chevaleyre** since September 2026.
+I am a first-year PhD student in the **[LAMSADE laboratory](https://www.lamsade.dauphine.fr/)** at **Université Paris Dauphine–PSL**, working under the supervision of **[Edwige Cyffers](https://www.lamsade.dauphine.fr/fr/personnes/detail-cv/profile/edwige-cyffers-1.html)** and **[Yann Chevaleyre](https://www.lamsade.dauphine.fr/~ychevaleyre/)** since September 2026.
 
 My doctoral research focuses on the thesis **“Performative Learning For Long-Term Trustworthy ML”**. My research interests lie at the intersection of:
 
@@ -22,7 +22,7 @@ My doctoral research focuses on the thesis **“Performative Learning For Long-T
 
 I study how learning algorithms influence the environments in which they operate, and how the resulting feedback affects fairness and trustworthiness over time.
 
-Before my PhD, I was a Project Research Fellow at **ACMU, Indian Statistical Institute, Kolkata**, where I began a parallel line of research on **graph property testing**. I completed my master's studies at **RKMVERI**, with a thesis supervised by **Debabrota Basu** at **Inria, Lille**.
+Before my PhD, I was a Project Research Fellow at **[ACMU](https://www.isical.ac.in/unit/index?unit_name=ACMU), Indian Statistical Institute, Kolkata**, where I began a parallel line of research on **graph property testing**. I completed my master's studies at **RKMVERI**, with a thesis supervised by **[Debabrota Basu](https://debabrota-basu.github.io/)** at **Inria, Lille**.
 
 ## Looking for something?
 
