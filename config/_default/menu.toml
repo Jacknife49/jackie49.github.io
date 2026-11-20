@@ -1,6 +1,7 @@
 [[social]]
     identifier = "github"
     name = "GitHub"
+    weight = 10
     url = "https://github.com/Jacknife49"
     [social.params]
         icon = "brand-github"
@@ -8,6 +9,24 @@
 [[social]]
     identifier = "linkedin"
     name = "LinkedIn"
+    weight = 20
     url = "https://www.linkedin.com/in/uddalak-mukherjee-38950321b/"
     [social.params]
         icon = "brand-linkedin"
+
+[[social]]
+    identifier = "google-scholar"
+    name = "Google Scholar"
+    weight = 30
+    url = "https://scholar.google.com/citations?user=9NzV-s8AAAAJ"
+    [social.params]
+        icon = "google-scholar"
+
+[[main]]
+    identifier = "cv"
+    name = "CV"
+    weight = 5
+    url = "https://drive.google.com/file/d/1xLhM98zQySqudbaov39FLznZWw3erled/view?usp=sharing"
+    [main.params]
+        icon = "file-cv"
+        newTab = true
