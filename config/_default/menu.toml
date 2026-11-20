@@ -4,3 +4,10 @@
     url = "https://github.com/Jacknife49"
     [social.params]
         icon = "brand-github"
+
+[[social]]
+    identifier = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/uddalak-mukherjee-38950321b/"
+    [social.params]
+        icon = "brand-linkedin"

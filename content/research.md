@@ -55,8 +55,50 @@ A model's decisions can change the population and opportunities on which future 
 Consequently, fairness measured at deployment may not persist as the environment responds.  
 Studying long-term fairness requires accounting for this interaction between learning, decisions, and distribution shifts.
 
-### Research direction
+### Master’s Thesis
 
-I am interested in connecting long-term fairness with performative learning and reinforcement learning. My aim is to understand how policy-induced environmental changes affect fairness over time, and how learning algorithms can account for those changes when making sequential decisions.
+**[Achieving Long-Term Fairness in Performative Reinforcement Learning](https://zenodo.org/records/18073907)**
+
+My master’s thesis at **RKMVERI**, supervised by **Debabrota Basu** at **Inria, Lille**, studies the connection between performative prediction and long-term fairness through performative Markov decision processes. This work laid the foundation for my subsequent research on performative policy gradients and fairness in sequential decision-making.
+
+[Read my master’s thesis / research report →](https://zenodo.org/records/18073907)
 
 {{< /research-tabs >}}
+
+## Other Works
+
+### Performative Bandits with Nash Regret
+
+An ongoing project extending performative learning to multi-armed bandits, with Nash regret as a way to study equitable reward allocation under performative shifts. I am working on the problem formulation with **Sayak Ray Chowdhury** and **Debabrota Basu**.
+
+Background reading: [Regret Minimization with Performative Feedback](https://arxiv.org/abs/2202.00628).
+
+### Statistical Study of Social Awareness
+
+An analysis of survey data on social awareness among young people in **South 24 Parganas and Purulia**, using statistical hypothesis testing. This work is in collaboration with **Kuntal Ghosh, Rabindranath Jana, and Sanjoy Ganguly**.
+
+[Read the preprint →](https://zenodo.org/records/20451002)
+
+### Remotal and Uniquely Remotal Sets in Normed Linear Spaces
+
+A follow-up to my undergraduate thesis, with **Sumit Som**, studying sufficient conditions for remotality and unique remotality of bounded subsets of Banach spaces through alpha–beta statistical convergence.
+
+[Read “A note on remotal and uniquely remotal sets in normed linear spaces” →](https://arxiv.org/abs/2510.10992)
+
+### Transformer Hawkes Processes for Failure-Time Forecasting
+
+A project modeling pipe failure data with temporal point processes, including a covariate-based Transformer Hawkes variant and comparisons with recurring Cox-type hazards and Neural Hawkes models. Supervised by **Sudipta Das** at **RKMVERI**.
+
+[Read the research report →](https://zenodo.org/records/18073702)
+
+### Asian Option Valuation with a Geometric Poisson Process
+
+A project incorporating abrupt price jumps into Asian option pricing through a Geometric Poisson framework, with Monte Carlo and martingale-based valuation methods. Supervised by **Indranil Sengupta** at **Hunter College, CUNY**.
+
+[Read the research report →](https://zenodo.org/records/18074003)
+
+### Beyond Local Queries on Graphs
+
+A survey project on graph property testing and streaming, including an investigation of query algorithms for finding global minimum cuts. Supervised by **Arijit Ghosh** at **ACMU, ISI Kolkata**. The project report is not yet available.
+
+Background reading: [Query Complexity of Global Minimum Cut](https://arxiv.org/abs/2007.09202).
