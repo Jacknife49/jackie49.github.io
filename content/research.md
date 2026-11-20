@@ -63,9 +63,7 @@ My master’s thesis at **RKMVERI**, supervised by **Debabrota Basu** at **Inria
 
 [Read my master’s thesis / research report →](https://zenodo.org/records/18073907)
 
-{{< /research-tabs >}}
-
-## Other Works
+## Other Interests
 
 ### Performative Bandits with Nash Regret
 
@@ -102,3 +100,5 @@ A project incorporating abrupt price jumps into Asian option pricing through a G
 A survey project on graph property testing and streaming, including an investigation of query algorithms for finding global minimum cuts. Supervised by **Arijit Ghosh** at **ACMU, ISI Kolkata**. The project report is not yet available.
 
 Background reading: [Query Complexity of Global Minimum Cut](https://arxiv.org/abs/2007.09202).
+
+{{< /research-tabs >}}

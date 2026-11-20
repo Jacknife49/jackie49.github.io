@@ -1,6 +1,6 @@
 .research-tabs .research-tab-list {
     display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-columns: repeat(4, minmax(0, 1fr));
     gap: .5rem;
     margin: 1.5rem 0 2rem;
     border-bottom: 1px solid var(--card-separator-color, #d8dce1);
@@ -32,7 +32,7 @@
 .research-tabs [hidden] { display: none !important; }
 .research-tabs .research-tab-panel > h2:first-child { margin-top: 0; }
 @media (max-width: 600px) {
-    .research-tabs .research-tab-list { gap: .25rem; }
+    .research-tabs .research-tab-list { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .4rem; }
     .research-tabs .research-tab { font-size: .78em; padding: .7rem .4rem; }
 }
 @media print {
