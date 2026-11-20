@@ -13,24 +13,6 @@ My research studies how learning systems change their environments, and what the
 
 {{< research-tabs >}}
 
-## Performative Reinforcement Learning
-
-Performative reinforcement learning studies agents whose deployed policies reshape the environments they learn from.  
-In this setting, rewards or transition dynamics can depend on the policy itself.  
-The goal is to learn policies that account for this feedback when optimizing long-term performance.
-
-### My contribution
-
-Together with **Debabrota Basu, Udvas Das, and Brahim Driss**, I coauthored work on **performative optimality** in reinforcement learning. We derived performative versions of the performance difference lemma and the policy gradient theorem, and introduced the **Performative Policy Gradient (PePG)** algorithm. Under softmax parameterization and the paper's assumptions, we established convergence to performatively optimal policies, with and without entropy regularization. Experiments showed improvements over existing approaches targeting performative stability.
-
-### Paper
-
-**[Performative Policy Gradient: Optimality in Performative Reinforcement Learning](https://proceedings.mlr.press/v306/basu26a.html)**  
-Debabrota Basu, Udvas Das, Brahim Driss, and **Uddalak Mukherjee**  
-**ICML 2026** · Proceedings of Machine Learning Research, Volume 306, pp. 6939–6983.
-
-[Read the paper in the ICML proceedings →](https://proceedings.mlr.press/v306/basu26a.html)
-
 ## Performative Privacy
 
 Performative privacy studies how privacy protection influences future data participation.  
@@ -48,6 +30,24 @@ Together with **Edwige Cyffers and Yann Chevaleyre**, I introduced a model of pe
 **Accepted at the NeurIPS 2026 AI4Good Workshop.**
 
 [Read the paper on arXiv →](https://arxiv.org/abs/2608.28198)
+
+## Performative Reinforcement Learning
+
+Performative reinforcement learning studies agents whose deployed policies reshape the environments they learn from.  
+In this setting, rewards or transition dynamics can depend on the policy itself.  
+The goal is to learn policies that account for this feedback when optimizing long-term performance.
+
+### My contribution
+
+Together with **Debabrota Basu, Udvas Das, and Brahim Driss**, I coauthored work on **performative optimality** in reinforcement learning. We derived performative versions of the performance difference lemma and the policy gradient theorem, and introduced the **Performative Policy Gradient (PePG)** algorithm. Under softmax parameterization and the paper's assumptions, we established convergence to performatively optimal policies, with and without entropy regularization. Experiments showed improvements over existing approaches targeting performative stability.
+
+### Paper
+
+**[Performative Policy Gradient: Optimality in Performative Reinforcement Learning](https://proceedings.mlr.press/v306/basu26a.html)**  
+Debabrota Basu, Udvas Das, Brahim Driss, and **Uddalak Mukherjee**  
+**ICML 2026** · Proceedings of Machine Learning Research, Volume 306, pp. 6939–6983.
+
+[Read the paper in the ICML proceedings →](https://proceedings.mlr.press/v306/basu26a.html)
 
 ## Long-Term Fairness in Performative Learning
 
