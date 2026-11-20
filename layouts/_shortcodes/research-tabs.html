@@ -1,0 +1,5 @@
+<link rel="stylesheet" href="{{ "css/research-tabs.css" | relURL }}">
+<div class="research-tabs" data-research-tabs>
+    {{ .Inner | .Page.RenderString (dict "display" "block") }}
+</div>
+<script src="{{ "js/research-tabs.js" | relURL }}" defer></script>
