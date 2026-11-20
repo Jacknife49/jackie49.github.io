@@ -8,7 +8,7 @@ rssFullContent = true
 [sidebar]
     emoji = ""
     subtitle = "PhD student · Université Paris Dauphine–PSL"
-    avatar = ""
+    avatar = "img/profile.png"
 [article]
     headingAnchor = true
     math = false
